@@ -1,0 +1,122 @@
+--------------------------------------------------
+ - 01/01/2024 panel 1001 (Not on holiday) Meter Type: UniTAM
+ - Number of statements: 13
+--------------------------------------------------
+02:00:00 BU 01 : DCAB on Chn 65535
+12:15:00 BU 01 : DCAB on Chn 65535
+15:29:54 BU 01 : DCAB on Chn 65535
+17:04:56 BU 01 : DCAB on Chn 65535
+17:50:23 BU 01 : DCAB on Chn 003
+17:50:48 BU 01 : DCAB on Chn 003
+17:51:07 BU 01 : member 2 has entered
+22:05:08 BU 01 : DCAB on Chn 005
+23:33:07 BU 01 : DCAB on Chn 002
+24:03:34 BU 01 : DCAB on Chn 65535
+24:03:36 BU 01 : DCAB on Chn 006
+25:59:59 BU 01 : all persons have exited
+25:59:59 BU 01 : DCAB Off
+--------------------------------------------------
+ - 01/01/2024 panel 1002 (Not on holiday) Meter Type: UniTAM
+ - Number of statements: 12
+--------------------------------------------------
+02:00:00 BU 01 : DCPR on Chn 003
+02:00:00 BU 01 : member 1 has entered
+02:06:21 BU 01 : DCPR on Chn 003
+02:42:56 BU 01 : DCPR on Chn 003
+05:00:01 BU 01 : DCPR on Chn 003
+05:02:28 BU 01 : DCPR on Chn 003
+05:02:35 BU 01 : DCPR on Chn 003
+06:07:01 BU 01 : DCPR on Chn 020
+06:31:24 BU 01 : DCPR on Chn 020
+06:41:29 BU 01 : Playback on DCPR
+06:41:31 BU 01 : member 1 has exited
+06:41:31 BU 01 : TV Off
+--------------------------------------------------
+ - 01/01/2024 panel 1003 (Not on holiday) Meter Type: UniTAM
+ - Number of statements: 30
+--------------------------------------------------
+08:00:18 BU 01 : TVST on Chn 65535
+08:00:18 BU 01 : IPTV on Chn 65535
+08:00:22 BU 01 : member 1 has entered
+08:00:25 BU 01 : IPTV on Chn 013
+08:00:52 BU 01 : IPTV on Chn 011
+08:35:52 BU 01 : IPTV on Chn 013
+10:23:44 BU 01 : IPTV on Chn 013
+10:32:59 BU 01 : IPTV on Chn 011
+10:45:41 BU 01 : IPTV on Chn 003
+10:49:00 BU 01 : IPTV on Chn 004
+10:53:01 BU 01 : IPTV on Chn 016
+10:55:37 BU 01 : IPTV on Chn 007
+12:09:37 BU 01 : member 1 has exited
+12:09:37 BU 01 : TV Off
+17:41:49 BU 01 : TVST on Chn 65535
+17:41:49 BU 01 : IPTV on Chn 65535
+17:41:59 BU 01 : IPTV on Chn 019
+17:42:00 BU 01 : member 2 has entered
+17:44:23 BU 01 : IPTV on Chn 010
+17:46:25 BU 01 : IPTV on Chn 018
+17:49:37 BU 01 : IPTV on Chn 014
+17:51:16 BU 01 : IPTV on Chn 011
+18:03:28 BU 01 : IPTV on Chn 007
+18:19:43 BU 01 : IPTV on Chn 017
+18:22:25 BU 01 : IPTV on Chn 012
+18:26:13 BU 01 : IPTV on Chn 015
+18:26:48 BU 01 : IPTV on Chn 018
+18:35:00 BU 01 : IPTV on Chn 018
+18:42:36 BU 01 : member 2 has exited
+18:42:36 BU 01 : TV Off
+--------------------------------------------------
+ - 01/01/2024 panel 1004 (Not on holiday) Meter Type: UniTAM
+ - Number of statements: 12
+--------------------------------------------------
+12:14:46 BU 01 : TVST on Chn 65535
+12:14:46 BU 01 : DCAB on Chn 65535
+14:16:17 BU 01 : TV Off
+17:42:30 BU 01 : TVST on Chn 65535
+17:42:30 BU 01 : DCAB on Chn 65535
+21:00:19 BU 01 : DCAB on Chn 009
+21:14:37 BU 01 : DCAB on Chn 008
+21:32:09 BU 01 : DCAB on Chn 65535
+21:37:32 BU 01 : DCAB on Chn 008
+21:45:59 BU 01 : DCAB on Chn 008
+22:03:26 BU 01 : DCAB on Chn 65535
+22:03:46 BU 01 : TV Off
+--------------------------------------------------
+ - 01/01/2024 panel 1005 (Not on holiday) Meter Type: UniTAM
+ - Number of statements: 37
+--------------------------------------------------
+10:37:46 BU 01 : TVST on Chn 65535
+10:37:46 BU 01 : IPTV on Chn 011
+10:38:03 BU 01 : guest 1 has entered
+11:05:45 BU 01 : IPTV on Chn 021
+11:06:39 BU 01 : IPTV on Chn 022
+11:07:15 BU 01 : IPTV on Chn 023
+11:10:14 BU 01 : IPTV on Chn 024
+11:10:30 BU 01 : IPTV on Chn 65535
+11:21:26 BU 01 : IPTV on Chn 025
+11:21:58 BU 01 : IPTV on Chn 026
+11:22:42 BU 01 : IPTV on Chn 027
+11:35:49 BU 01 : IPTV on Chn 028
+12:17:08 BU 01 : IPTV on Chn 65535
+12:23:56 BU 01 : IPTV on Chn 028
+12:49:56 BU 01 : IPTV on Chn 029
+13:25:27 BU 01 : guest 1 has exited
+13:25:27 BU 01 : TV Off
+18:12:42 BU 01 : TVST on Chn 65535
+18:12:42 BU 01 : IPTV on Chn 029
+18:12:50 BU 01 : guest 2 has entered
+18:16:29 BU 01 : guest 2 has exited
+18:16:29 BU 01 : TV Off
+22:23:03 BU 01 : TVST on Chn 65535
+22:23:03 BU 01 : IPTV on Chn 029
+22:23:52 BU 01 : guest 3 has entered
+22:28:16 BU 01 : IPTV on Chn 030
+25:16:36 BU 01 : IPTV on Chn 027
+25:17:47 BU 01 : IPTV on Chn 031
+25:19:38 BU 01 : IPTV on Chn 014
+25:26:11 BU 01 : IPTV on Chn 032
+25:26:38 BU 01 : IPTV on Chn 033
+25:30:28 BU 01 : IPTV on Chn 033
+25:59:59 BU 01 : all persons have exited
+25:59:59 BU 01 : IPTV Off
+
